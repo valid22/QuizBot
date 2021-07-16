@@ -1,0 +1,2 @@
+# QuizBot
+Discord quiz bot
